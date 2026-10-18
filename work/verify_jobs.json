@@ -1,0 +1,139 @@
+[
+  {
+    "tag": "conv_diffusion_64",
+    "n": 64,
+    "protocol": "diffusion",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "conv_pair_64",
+    "n": 64,
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "conv_switch_64",
+    "n": 64,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "conv_diffusion_96",
+    "n": 96,
+    "protocol": "diffusion",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "conv_pair_96",
+    "n": 96,
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "conv_switch_96",
+    "n": 96,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "conv_diffusion_128",
+    "n": 128,
+    "protocol": "diffusion",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "conv_pair_128",
+    "n": 128,
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "conv_switch_128",
+    "n": 128,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "conv_diffusion_256",
+    "n": 256,
+    "protocol": "diffusion",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "conv_pair_256",
+    "n": 256,
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "conv_switch_256",
+    "n": 256,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "conv_diffusion_384",
+    "n": 384,
+    "protocol": "diffusion",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "conv_pair_384",
+    "n": 384,
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "conv_switch_384",
+    "n": 384,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "time_switch_0.5",
+    "n": 192,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0,
+    "dt_scale": 0.5
+  },
+  {
+    "tag": "time_switch_0.25",
+    "n": 192,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0,
+    "dt_scale": 0.25
+  },
+  {
+    "tag": "inviscid_switch_96",
+    "n": 96,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0,
+    "kappa": 0.0
+  },
+  {
+    "tag": "inviscid_switch_192",
+    "n": 192,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0,
+    "kappa": 0.0
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "tag": "main_diffusion",
+    "n": 192,
+    "protocol": "diffusion",
+    "T": 40.0,
+    "tau": 8.0
+  },
+  {
+    "tag": "main_center",
+    "n": 192,
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 8.0
+  },
+  {
+    "tag": "main_eccentric",
+    "n": 192,
+    "protocol": "eccentric",
+    "T": 40.0,
+    "tau": 8.0
+  },
+  {
+    "tag": "main_pair",
+    "n": 192,
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 8.0
+  },
+  {
+    "tag": "main_mean_switch",
+    "n": 192,
+    "protocol": "mean_switch",
+    "T": 40.0,
+    "tau": 8.0
+  },
+  {
+    "tag": "main_reverse",
+    "n": 192,
+    "protocol": "reverse",
+    "T": 40.0,
+    "tau": 8.0
+  },
+  {
+    "tag": "main_switch_0.5",
+    "n": 192,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 0.5
+  },
+  {
+    "tag": "main_switch_1",
+    "n": 192,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 1.0
+  },
+  {
+    "tag": "main_switch_2",
+    "n": 192,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 2.0
+  },
+  {
+    "tag": "main_switch_4",
+    "n": 192,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "main_switch_8",
+    "n": 192,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 8.0
+  },
+  {
+    "tag": "main_switch_10",
+    "n": 192,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 10.0
+  },
+  {
+    "tag": "main_switch_20",
+    "n": 192,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 20.0
+  },
+  {
+    "tag": "main_switch_40",
+    "n": 192,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 40.0
+  },
+  {
+    "tag": "main_switch_80",
+    "n": 192,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 80.0
+  }
+]

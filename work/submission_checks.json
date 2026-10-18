@@ -1,0 +1,27 @@
+{
+  "default_transport_matches_preserved_version": [
+    {
+      "protocol": "center",
+      "T": 0.2,
+      "n": 48,
+      "max_field_difference": 0.0
+    },
+    {
+      "protocol": "switch",
+      "T": 0.2,
+      "n": 48,
+      "max_field_difference": 0.0
+    }
+  ],
+  "mixed_initial_mass_drift": 5.551115123125785e-16,
+  "new_metadata_checked": true,
+  "very_short_run_snapshots_checked": true,
+  "matching_cache_reused": true,
+  "rejected_cache_changes": [
+    "dt_scale",
+    "omitted_nondefault",
+    "source",
+    "missing_array"
+  ],
+  "current_source_sha256": "3ccd7b349998cd02e4a2c38ae192b2e656de2545ca4bb6f1e569f20faa45a814"
+}

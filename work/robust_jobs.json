@@ -1,0 +1,470 @@
+[
+  {
+    "tag": "shape_0.5_center",
+    "n": 192,
+    "aspect": 0.5,
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "shape_0.5_eccentric",
+    "n": 192,
+    "aspect": 0.5,
+    "protocol": "eccentric",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "shape_0.5_pair",
+    "n": 192,
+    "aspect": 0.5,
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "shape_0.5_switch",
+    "n": 192,
+    "aspect": 0.5,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "shape_0.5_mean_switch",
+    "n": 192,
+    "aspect": 0.5,
+    "protocol": "mean_switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "shape_1_center",
+    "n": 192,
+    "aspect": 1.0,
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "shape_1_eccentric",
+    "n": 192,
+    "aspect": 1.0,
+    "protocol": "eccentric",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "shape_1_pair",
+    "n": 192,
+    "aspect": 1.0,
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "shape_1_switch",
+    "n": 192,
+    "aspect": 1.0,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "shape_1_mean_switch",
+    "n": 192,
+    "aspect": 1.0,
+    "protocol": "mean_switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "shape_2_center",
+    "n": 192,
+    "aspect": 2.0,
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "shape_2_eccentric",
+    "n": 192,
+    "aspect": 2.0,
+    "protocol": "eccentric",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "shape_2_pair",
+    "n": 192,
+    "aspect": 2.0,
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "shape_2_switch",
+    "n": 192,
+    "aspect": 2.0,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "shape_2_mean_switch",
+    "n": 192,
+    "aspect": 2.0,
+    "protocol": "mean_switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "initial_diag_center",
+    "n": 192,
+    "kind": "dipole",
+    "angle": 0.7853981633974483,
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "initial_diag_eccentric",
+    "n": 192,
+    "kind": "dipole",
+    "angle": 0.7853981633974483,
+    "protocol": "eccentric",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "initial_diag_pair",
+    "n": 192,
+    "kind": "dipole",
+    "angle": 0.7853981633974483,
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "initial_diag_switch",
+    "n": 192,
+    "kind": "dipole",
+    "angle": 0.7853981633974483,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "initial_diag_mean_switch",
+    "n": 192,
+    "kind": "dipole",
+    "angle": 0.7853981633974483,
+    "protocol": "mean_switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "initial_vert_center",
+    "n": 192,
+    "kind": "dipole",
+    "angle": 1.5707963267948966,
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "initial_vert_eccentric",
+    "n": 192,
+    "kind": "dipole",
+    "angle": 1.5707963267948966,
+    "protocol": "eccentric",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "initial_vert_pair",
+    "n": 192,
+    "kind": "dipole",
+    "angle": 1.5707963267948966,
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "initial_vert_switch",
+    "n": 192,
+    "kind": "dipole",
+    "angle": 1.5707963267948966,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "initial_vert_mean_switch",
+    "n": 192,
+    "kind": "dipole",
+    "angle": 1.5707963267948966,
+    "protocol": "mean_switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "initial_blob_center",
+    "n": 192,
+    "kind": "blob",
+    "angle": 0.0,
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "initial_blob_eccentric",
+    "n": 192,
+    "kind": "blob",
+    "angle": 0.0,
+    "protocol": "eccentric",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "initial_blob_pair",
+    "n": 192,
+    "kind": "blob",
+    "angle": 0.0,
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "initial_blob_switch",
+    "n": 192,
+    "kind": "blob",
+    "angle": 0.0,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "initial_blob_mean_switch",
+    "n": 192,
+    "kind": "blob",
+    "angle": 0.0,
+    "protocol": "mean_switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "initial_radial_center",
+    "n": 192,
+    "kind": "radial",
+    "angle": 0.0,
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "initial_radial_eccentric",
+    "n": 192,
+    "kind": "radial",
+    "angle": 0.0,
+    "protocol": "eccentric",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "initial_radial_pair",
+    "n": 192,
+    "kind": "radial",
+    "angle": 0.0,
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "initial_radial_switch",
+    "n": 192,
+    "kind": "radial",
+    "angle": 0.0,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "initial_radial_mean_switch",
+    "n": 192,
+    "kind": "radial",
+    "angle": 0.0,
+    "protocol": "mean_switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "diff_0.0015_diffusion",
+    "n": 384,
+    "kappa": 0.0015,
+    "protocol": "diffusion",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "diff_0.0015_center",
+    "n": 384,
+    "kappa": 0.0015,
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "diff_0.0015_pair",
+    "n": 384,
+    "kappa": 0.0015,
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "diff_0.0015_switch",
+    "n": 384,
+    "kappa": 0.0015,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "diff_0.0015_mean_switch",
+    "n": 384,
+    "kappa": 0.0015,
+    "protocol": "mean_switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "diff_0.006_diffusion",
+    "n": 192,
+    "kappa": 0.006,
+    "protocol": "diffusion",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "diff_0.006_center",
+    "n": 192,
+    "kappa": 0.006,
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "diff_0.006_pair",
+    "n": 192,
+    "kappa": 0.006,
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "diff_0.006_switch",
+    "n": 192,
+    "kappa": 0.006,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "diff_0.006_mean_switch",
+    "n": 192,
+    "kappa": 0.006,
+    "protocol": "mean_switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "diff_0.012_diffusion",
+    "n": 192,
+    "kappa": 0.012,
+    "protocol": "diffusion",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "diff_0.012_center",
+    "n": 192,
+    "kappa": 0.012,
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "diff_0.012_pair",
+    "n": 192,
+    "kappa": 0.012,
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "diff_0.012_switch",
+    "n": 192,
+    "kappa": 0.012,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "diff_0.012_mean_switch",
+    "n": 192,
+    "kappa": 0.012,
+    "protocol": "mean_switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "speed_0.5_center",
+    "n": 192,
+    "speed": 0.5,
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "speed_0.5_pair",
+    "n": 192,
+    "speed": 0.5,
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "speed_0.5_switch",
+    "n": 192,
+    "speed": 0.5,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "speed_2_center",
+    "n": 384,
+    "speed": 2.0,
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "speed_2_pair",
+    "n": 384,
+    "speed": 2.0,
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "speed_2_switch",
+    "n": 384,
+    "speed": 2.0,
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  }
+]

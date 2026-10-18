@@ -1,0 +1,176 @@
+[
+  {
+    "tag": "fast_switch_0.125",
+    "n": 128,
+    "protocol": "switch",
+    "tau": 0.125,
+    "T": 40.0
+  },
+  {
+    "tag": "fast_switch_0.25",
+    "n": 128,
+    "protocol": "switch",
+    "tau": 0.25,
+    "T": 40.0
+  },
+  {
+    "tag": "fast_switch_0.5",
+    "n": 128,
+    "protocol": "switch",
+    "tau": 0.5,
+    "T": 40.0
+  },
+  {
+    "tag": "fast_switch_1",
+    "n": 128,
+    "protocol": "switch",
+    "tau": 1.0,
+    "T": 40.0
+  },
+  {
+    "tag": "fast_switch_2",
+    "n": 128,
+    "protocol": "switch",
+    "tau": 2.0,
+    "T": 40.0
+  },
+  {
+    "tag": "fast_switch_4",
+    "n": 128,
+    "protocol": "switch",
+    "tau": 4.0,
+    "T": 40.0
+  },
+  {
+    "tag": "fast_switch_8",
+    "n": 128,
+    "protocol": "switch",
+    "tau": 8.0,
+    "T": 40.0
+  },
+  {
+    "tag": "fast_mean",
+    "n": 128,
+    "protocol": "mean_switch",
+    "T": 40.0
+  },
+  {
+    "tag": "phase_0.25_4",
+    "n": 192,
+    "protocol": "switch",
+    "phase": 0.25,
+    "tau": 4.0,
+    "T": 40.0
+  },
+  {
+    "tag": "phase_0.25_20",
+    "n": 192,
+    "protocol": "switch",
+    "phase": 0.25,
+    "tau": 20.0,
+    "T": 40.0
+  },
+  {
+    "tag": "phase_0.5_4",
+    "n": 192,
+    "protocol": "switch",
+    "phase": 0.5,
+    "tau": 4.0,
+    "T": 40.0
+  },
+  {
+    "tag": "phase_0.5_20",
+    "n": 192,
+    "protocol": "switch",
+    "phase": 0.5,
+    "tau": 20.0,
+    "T": 40.0
+  },
+  {
+    "tag": "phase_0.75_4",
+    "n": 192,
+    "protocol": "switch",
+    "phase": 0.75,
+    "tau": 4.0,
+    "T": 40.0
+  },
+  {
+    "tag": "phase_0.75_20",
+    "n": 192,
+    "protocol": "switch",
+    "phase": 0.75,
+    "tau": 20.0,
+    "T": 40.0
+  },
+  {
+    "tag": "map_0.5_0.5",
+    "n": 192,
+    "protocol": "switch",
+    "aspect": 0.5,
+    "tau": 0.5,
+    "T": 40.0
+  },
+  {
+    "tag": "map_0.5_2",
+    "n": 192,
+    "protocol": "switch",
+    "aspect": 0.5,
+    "tau": 2.0,
+    "T": 40.0
+  },
+  {
+    "tag": "map_0.5_8",
+    "n": 192,
+    "protocol": "switch",
+    "aspect": 0.5,
+    "tau": 8.0,
+    "T": 40.0
+  },
+  {
+    "tag": "map_0.5_20",
+    "n": 192,
+    "protocol": "switch",
+    "aspect": 0.5,
+    "tau": 20.0,
+    "T": 40.0
+  },
+  {
+    "tag": "map_2_0.5",
+    "n": 192,
+    "protocol": "switch",
+    "aspect": 2.0,
+    "tau": 0.5,
+    "T": 40.0
+  },
+  {
+    "tag": "map_2_2",
+    "n": 192,
+    "protocol": "switch",
+    "aspect": 2.0,
+    "tau": 2.0,
+    "T": 40.0
+  },
+  {
+    "tag": "map_2_8",
+    "n": 192,
+    "protocol": "switch",
+    "aspect": 2.0,
+    "tau": 8.0,
+    "T": 40.0
+  },
+  {
+    "tag": "map_2_20",
+    "n": 192,
+    "protocol": "switch",
+    "aspect": 2.0,
+    "tau": 20.0,
+    "T": 40.0
+  },
+  {
+    "tag": "reverse_fine",
+    "n": 256,
+    "protocol": "reverse",
+    "tau": 8.0,
+    "T": 40.0
+  }
+]

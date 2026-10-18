@@ -1,0 +1,386 @@
+[
+  {
+    "tag": "holdout_20261015_center",
+    "n": 192,
+    "kind": "mix20261015",
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261015_eccentric",
+    "n": 192,
+    "kind": "mix20261015",
+    "protocol": "eccentric",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261015_pair",
+    "n": 192,
+    "kind": "mix20261015",
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261015_switch",
+    "n": 192,
+    "kind": "mix20261015",
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261016_center",
+    "n": 192,
+    "kind": "mix20261016",
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261016_eccentric",
+    "n": 192,
+    "kind": "mix20261016",
+    "protocol": "eccentric",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261016_pair",
+    "n": 192,
+    "kind": "mix20261016",
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261016_switch",
+    "n": 192,
+    "kind": "mix20261016",
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261017_center",
+    "n": 192,
+    "kind": "mix20261017",
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261017_eccentric",
+    "n": 192,
+    "kind": "mix20261017",
+    "protocol": "eccentric",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261017_pair",
+    "n": 192,
+    "kind": "mix20261017",
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261017_switch",
+    "n": 192,
+    "kind": "mix20261017",
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261018_center",
+    "n": 192,
+    "kind": "mix20261018",
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261018_eccentric",
+    "n": 192,
+    "kind": "mix20261018",
+    "protocol": "eccentric",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261018_pair",
+    "n": 192,
+    "kind": "mix20261018",
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261018_switch",
+    "n": 192,
+    "kind": "mix20261018",
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261019_center",
+    "n": 192,
+    "kind": "mix20261019",
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261019_eccentric",
+    "n": 192,
+    "kind": "mix20261019",
+    "protocol": "eccentric",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261019_pair",
+    "n": 192,
+    "kind": "mix20261019",
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261019_switch",
+    "n": 192,
+    "kind": "mix20261019",
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261020_center",
+    "n": 192,
+    "kind": "mix20261020",
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261020_eccentric",
+    "n": 192,
+    "kind": "mix20261020",
+    "protocol": "eccentric",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261020_pair",
+    "n": 192,
+    "kind": "mix20261020",
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261020_switch",
+    "n": 192,
+    "kind": "mix20261020",
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261021_center",
+    "n": 192,
+    "kind": "mix20261021",
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261021_eccentric",
+    "n": 192,
+    "kind": "mix20261021",
+    "protocol": "eccentric",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261021_pair",
+    "n": 192,
+    "kind": "mix20261021",
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261021_switch",
+    "n": 192,
+    "kind": "mix20261021",
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261022_center",
+    "n": 192,
+    "kind": "mix20261022",
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261022_eccentric",
+    "n": 192,
+    "kind": "mix20261022",
+    "protocol": "eccentric",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261022_pair",
+    "n": 192,
+    "kind": "mix20261022",
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261022_switch",
+    "n": 192,
+    "kind": "mix20261022",
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261023_center",
+    "n": 192,
+    "kind": "mix20261023",
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261023_eccentric",
+    "n": 192,
+    "kind": "mix20261023",
+    "protocol": "eccentric",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261023_pair",
+    "n": 192,
+    "kind": "mix20261023",
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261023_switch",
+    "n": 192,
+    "kind": "mix20261023",
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261024_center",
+    "n": 192,
+    "kind": "mix20261024",
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261024_eccentric",
+    "n": 192,
+    "kind": "mix20261024",
+    "protocol": "eccentric",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261024_pair",
+    "n": 192,
+    "kind": "mix20261024",
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261024_switch",
+    "n": 192,
+    "kind": "mix20261024",
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261025_center",
+    "n": 192,
+    "kind": "mix20261025",
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261025_eccentric",
+    "n": 192,
+    "kind": "mix20261025",
+    "protocol": "eccentric",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261025_pair",
+    "n": 192,
+    "kind": "mix20261025",
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261025_switch",
+    "n": 192,
+    "kind": "mix20261025",
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261026_center",
+    "n": 192,
+    "kind": "mix20261026",
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261026_eccentric",
+    "n": 192,
+    "kind": "mix20261026",
+    "protocol": "eccentric",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261026_pair",
+    "n": 192,
+    "kind": "mix20261026",
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "holdout_20261026_switch",
+    "n": 192,
+    "kind": "mix20261026",
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  }
+]

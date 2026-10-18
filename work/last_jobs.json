@@ -1,0 +1,6 @@
+[
+  {"tag":"fast_switch_halfstep","n":128,"protocol":"switch","tau":0.125,"T":40.0,"dt_scale":0.5},
+  {"tag":"fast_mean_halfstep","n":128,"protocol":"mean_switch","T":40.0,"dt_scale":0.5},
+  {"tag":"inviscid_switch_96","n":96,"protocol":"switch","tau":4.0,"T":40.0,"kappa":0.0},
+  {"tag":"inviscid_switch_192","n":192,"protocol":"switch","tau":4.0,"T":40.0,"kappa":0.0}
+]

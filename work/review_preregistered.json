@@ -1,0 +1,79 @@
+{
+  "seeds": [
+    20261015,
+    20261016,
+    20261017,
+    20261018,
+    20261019,
+    20261020,
+    20261021,
+    20261022,
+    20261023,
+    20261024,
+    20261025,
+    20261026
+  ],
+  "modes": [
+    [
+      0,
+      1,
+      "cos"
+    ],
+    [
+      0,
+      2,
+      "cos"
+    ],
+    [
+      1,
+      1,
+      "cos"
+    ],
+    [
+      1,
+      1,
+      "sin"
+    ],
+    [
+      1,
+      2,
+      "cos"
+    ],
+    [
+      1,
+      2,
+      "sin"
+    ],
+    [
+      2,
+      1,
+      "cos"
+    ],
+    [
+      2,
+      1,
+      "sin"
+    ],
+    [
+      3,
+      1,
+      "cos"
+    ],
+    [
+      3,
+      1,
+      "sin"
+    ]
+  ],
+  "weights": "independent standard normal / eigenvalue wavenumber alpha",
+  "normalization": "subtract discrete mean then scale maximum absolute fluctuation to0.45",
+  "protocols": [
+    "center",
+    "eccentric",
+    "pair",
+    "switch"
+  ],
+  "fixed_switch_tau": 4.0,
+  "primary_endpoint": "J=V(40)/V(0)",
+  "all_runs_reported": true
+}

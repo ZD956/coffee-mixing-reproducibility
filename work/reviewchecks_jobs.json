@@ -1,0 +1,83 @@
+[
+  {
+    "tag": "refine_radial_center_256",
+    "n": 256,
+    "kind": "radial",
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "refine_radial_pair_256",
+    "n": 256,
+    "kind": "radial",
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "refine_radial_switch_256",
+    "n": 256,
+    "kind": "radial",
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "refine_blob_center_256",
+    "n": 256,
+    "kind": "blob",
+    "protocol": "center",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "refine_blob_pair_256",
+    "n": 256,
+    "kind": "blob",
+    "protocol": "pair",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "refine_blob_switch_256",
+    "n": 256,
+    "kind": "blob",
+    "protocol": "switch",
+    "T": 40.0,
+    "tau": 4.0
+  },
+  {
+    "tag": "refine_center_256",
+    "n": 256,
+    "protocol": "center",
+    "T": 40.0
+  },
+  {
+    "tag": "fast192_switch_0.125",
+    "n": 192,
+    "protocol": "switch",
+    "tau": 0.125,
+    "T": 40.0
+  },
+  {
+    "tag": "fast192_switch_0.25",
+    "n": 192,
+    "protocol": "switch",
+    "tau": 0.25,
+    "T": 40.0
+  },
+  {
+    "tag": "fast192_switch_0.5",
+    "n": 192,
+    "protocol": "switch",
+    "tau": 0.5,
+    "T": 40.0
+  },
+  {
+    "tag": "fast192_mean",
+    "n": 192,
+    "protocol": "mean_switch",
+    "T": 40.0
+  }
+]

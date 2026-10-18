@@ -1,0 +1,27 @@
+{
+  "records": 201,
+  "nonpilot_records": 188,
+  "all_saved_J_verified": true,
+  "all_mass_drift_below_1e_10": true,
+  "all_positive_diffusion_completed_step_bounds_preserved": true,
+  "main_time_refinement_relative_J_errors": [
+    4.3224979151545995e-11,
+    4.5922821101385125e-11
+  ],
+  "fast_time_refinement_relative_field_errors": [
+    1.1065155571008515e-11,
+    1.4209767141407465e-12
+  ],
+  "radial_center_minus_diffusion_J": -5.860329411327969e-08,
+  "average_power": 0.6267274002557771,
+  "gram_condition_number": 4.689720802608255,
+  "environment": {
+    "python": "3.10.11",
+    "numpy": "1.26.4",
+    "scipy": "1.15.3",
+    "numba": "0.61.2",
+    "matplotlib": "3.10.9",
+    "platform": "Windows-10-10.0.26200-SP0"
+  },
+  "source_sha256": "3ccd7b349998cd02e4a2c38ae192b2e656de2545ca4bb6f1e569f20faa45a814"
+}

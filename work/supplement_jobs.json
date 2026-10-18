@@ -1,0 +1,4 @@
+[
+  {"tag":"initial_radial_diffusion","n":192,"protocol":"diffusion","kind":"radial","T":40.0},
+  {"tag":"inviscid_switch_halfstep","n":192,"protocol":"switch","kappa":0.0,"tau":4.0,"T":40.0,"dt_scale":0.5}
+]

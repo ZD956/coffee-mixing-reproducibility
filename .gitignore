@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.nbc
+*.nbi
+.venv/
+work/python_deps/
+work/data/
+work/verification/
+*.log
